@@ -1,4 +1,4 @@
-# TWEEDE BOEK  VAN ZAKEN
+# TWEEDE BOEK: VAN ZAKEN
 
 # Eerste Titel: Van De Zaken En Hun Onderscheid
 ## Eerste Afdeling: Van Zaken In Het Algemeen
@@ -89,6 +89,8 @@ In het algemeen worden alle voorwerpen die de eigenaar tot een blijvend gebruik 
 **573.**  De uitdrukking “stoffering” omvat alleen die meubelen die tot gebruik en versiering van de vertrekken dienen, zoals stoelen, tafels, kasten, bedden, gordijnen, spiegels, pendules, porselein en andere dergelijke voorwerpen. Schilderijen en beelden die een onderdeel vormen van het meubilair van een vertrek zijn daarbij eveneens inbegrepen. Verzamelingen van schilderijen, prenten en beelden, geplaatst op galerijen of in bijzondere vertrekken, vallen hier echter niet onder.
 
 **574.**  De uitdrukkingen “een gemeubileerd huis” of “een huis met zijn meubelen” omvatten uitsluitend de stoffering.
+
+---
 
 ## Vijfde Afdeling: Van Zaken Met Betrekking Tot Hun Bezitters
 
@@ -450,6 +452,8 @@ Als de gemeenschappelijke scheidsmuur niet sterk genoeg is om de verhoging te dr
 **719.**  Voetpaden, dreven of wegen die aan meerdere buren gemeen zijn en die dienen als een uitweg, kunnen niet worden verlegd, opgeheven of voor een ander doel gebruikt dan waarvoor ze bestemd zijn, tenzij met gemeenschappelijke instemming.
 
 **720.**  De rechten en verplichtingen ten algemene of gemeentelijke nutte, betreffende voet- en jaagpaden langs bevaarbare of vlotbare rivieren, het maken of herstellen van wegen, dijken en andere openbare of gemeentelijke werken, zijn geregeld bij bijzondere wetten en verordeningen.
+
+---
 
 # Vijfde Titel: Van Erfdienstbaarheden
 
