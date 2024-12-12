@@ -1,4 +1,4 @@
-# Nederlands Wetboek 1983
+# Nederlands Wetboek 1883
 
 Tot nu toe heb ik alleen het tweede boek gedaan:
 - Gebaseerd op de versie zoals hij [door Google is ingescand](https://books.google.nl/books?id=OU_iAAAAMAAJ&pg=PP9#v=onepage&q&f=false)
