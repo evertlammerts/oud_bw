@@ -235,7 +235,7 @@ Men is niet langer ontvankelijk in deze rechtsvordering zodra men een geding ten
 ---
 
 # Derde Titel: Van Eigendom
-**EERSTE AFDELING. Algemene bepalingen**
+## Eerste Afdeling: Algemene Bepalingen
 
 **625.**  Eigendom is het recht om vrijelijk van een zaak gebruik te maken en daarover op de meest absolute wijze te beschikken, mits men daarvan geen gebruik maakt in strijd met de wet of met openbare verordeningen, vastgesteld door een daartoe volgens de Grondwet bevoegde macht, en mits men de rechten van anderen niet schaadt. Dit alles onverminderd de mogelijkheid van onteigening ten algemene nutte, tegen passende schadeloosstelling, overeenkomstig de Grondwet.
 
@@ -513,8 +513,7 @@ Hij mag noch de toestand van de plaats veranderen, noch de uitoefening van de er
 
 ---
 
-**Tweede Afdeling.**  
-*Op welke wijze erfdienstbaarheden worden gevestigd.*
+## Tweede Afdeling: Op Welke Wijze Erfdienstbaarheden Worden Gevestigd.
 
 **742.**  Erfdienstbaarheden worden gevestigd door een titel of door verjaring.
 
@@ -534,8 +533,7 @@ Hij mag noch de toestand van de plaats veranderen, noch de uitoefening van de er
 
 ---
 
-**Derde Afdeling.**  
-*Op welke wijze erfdienstbaarheden tenietgaan.*
+## Derde Afdeling: Op Welke Wijze Erfdienstbaarheden Tenietgaan.
 
 **750.**  Erfdienstbaarheden vervallen wanneer de zaken in zodanige staat komen dat men er geen gebruik meer van kan maken.
 
@@ -834,8 +832,7 @@ Als de kudde niet geheel verloren is gegaan, moet de vruchtgebruiker het aantal 
 
 ---
 
-**Vierde Afdeling.**  
-*Hoe het vruchtgebruik eindigt.*
+## Vierde Afdeling: Hoe Het Vruchtgebruik Eindigt
 
 **854.**  Het vruchtgebruik eindigt:  
 1. Door de dood van de vruchtgebruiker;  
@@ -906,8 +903,7 @@ Als hij slechts een deel van de vruchten geniet of een deel van het huis bewoont
 
 # Elfde Titel: Van Erfopvolging Bij Versterf
 
-**Eerste Afdeling.**  
-*Algemene bepalingen.*
+## Eerste Afdeling: Algemene Bepalingen.
 
 **877.**  Erfopvolging vindt alleen plaats door overlijden.
 
@@ -1029,8 +1025,7 @@ De verdeling in beide linies geschiedt volgens de regels van de gewone erfopvolg
 
 # Twaalfde Titel: Van Uiterste Willen
 
-**Eerste Afdeling.**  
-*Algemene bepalingen.*
+## Eerste Afdeling: Algemene Bepalingen.
 
 **921.**  De goederen die iemand bij zijn overlijden nalaat, behoren aan zijn wettelijke erfgenamen, voor zover hij daarover niet bij uiterste wil wettig heeft beschikt.
 
@@ -1503,7 +1498,7 @@ Na de vereffening van de rekening is zijn eigen vermogen alleen aansprakelijk vo
 ---
 
 # Vijftiende Titel: Van Het Aanvaarden En Verwerpen Van Erfenissen
-## Eerste Afdeling: –: Van Het Aanvaarden Van Erfenissen
+## Eerste Afdeling: Van Het Aanvaarden Van Erfenissen
 
 **1090.**  Een erfenis kan zuiver of onder voorrecht van boedelbeschrijving worden aanvaard.
 
@@ -1862,7 +1857,7 @@ Bestaat er tussen dezelfde schuldenaar en schuldeiser nog een tweede schuld, die
 ---
 
 # Twintigste Titel: Van Onderzetting Of Hypotheek
-**EERSTE AFDELING. Algemene bepalingen**
+## Eerste Afdeling: Algemene Bepalingen.
 
 **1208.**  Onderzetting of hypotheek is een zakelijk recht op onroerende goederen, bedoeld om daaruit de voldoening van een verbintenis te verhalen.
 
